@@ -6,6 +6,15 @@ _site
 # Sass garbage
 .sass-cache
 
+# Example posts
+_posts/2000-01-01-dummy.markdown
+_posts/2000-01-01-dummy2.markdown
+_posts/2000-01-01-dummy3.markdown
+_posts/2000-01-01-dummy4.markdown
+_posts/2000-01-01-dummy5.markdown
+_posts/2000-01-01-dummy6.markdown
+_posts/2000-01-01-welcome-to-jekyll.markdown
+
 # Bundler
 Gemfile.lock
 .bundle/
